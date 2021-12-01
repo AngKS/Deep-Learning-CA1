@@ -1,22 +1,8 @@
-# Project Title
+# ST1504 Deep Learning CA1 Submission
 
-## Getting Started
+This is my code repository for ST1504 Deep Learning CA1 Image Classification problem.
 
+## Problem
 
-## Test & Deploy
+We are required to come up with a CNN model to classify objects belonging to 2 datasets: Fashion MNIST and CIFAR-10.
 
-## Installation
-
-## Usage
-
-## Contributing
-
-## TO-DO
-[ ] -
-[ ] -
-[ ] -
-
-
-## Authors
-
-## License
